@@ -1,3 +1,3 @@
 Play FNF Online
  
-[Shaggy Mod](Shaggy Mod Old/index.html)
+[Shaggy Mod (Old)](Shaggy Mod Old/index.html)
